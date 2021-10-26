@@ -1,0 +1,1 @@
+This is an application of what I learned so far in my web programing project. I already cover the essential to continue with Git/Github and HTML.
